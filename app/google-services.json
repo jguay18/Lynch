@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174336973069",
+    "project_id": "lynch-1efd6",
+    "storage_bucket": "lynch-1efd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174336973069:android:350990b5b27d88a2927844",
+        "android_client_info": {
+          "package_name": "com.example.lynch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174336973069-4idj1ko04asmu7m0icep6885695am6ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUH52Jz4y7lgN5F3fE2-I0rjXBfHdG0kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174336973069-4idj1ko04asmu7m0icep6885695am6ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
